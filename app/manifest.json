@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Nigeria Onboarding Fund",
+  "short_name": "Nigeria Fund",
+  "description": "Help Nigerians join Farcaster by contributing to their onboarding fees",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/api/icon",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "social", "utilities"],
+  "lang": "en",
+  "scope": "/",
+  "id": "farcaster-nigeria-fund"
+}
